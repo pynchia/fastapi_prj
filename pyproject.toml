@@ -6,5 +6,7 @@ authors = [
     {name = "pynchia", email = "pynchia@gmail.com"},
 ]
 license = {text = "MIT"}
-dependencies = []
+dependencies = [
+    "fastapi[all]>=0.104.1",
+]
 requires-python = ">=3.11"
