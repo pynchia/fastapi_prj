@@ -1,0 +1,5 @@
+
+[logging]
+level = "DEBUG"
+rich_tracebacks = true
+traceback_show_locals = true
